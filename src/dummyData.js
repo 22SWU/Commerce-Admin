@@ -1,144 +1,134 @@
 export const userData = [
   {
     name: "Jan",
-    "Active User": 4000,
+    Sales: 4000,
   },
   {
     name: "Feb",
-    "Active User": 3000,
+    Sales: 3000,
   },
   {
     name: "Mar",
-    "Active User": 5000,
+    Sales: 5000,
   },
   {
     name: "Apr",
-    "Active User": 4000,
+    Sales: 4000,
   },
   {
     name: "May",
-    "Active User": 3000,
+    Sales: 3000,
   },
   {
     name: "Jun",
-    "Active User": 2000,
+    Sales: 2000,
   },
   {
     name: "Jul",
-    "Active User": 4000,
+    Sales: 4000,
   },
   {
     name: "Aug",
-    "Active User": 3000,
+    Sales: 3000,
   },
   {
     name: "Sep",
-    "Active User": 4000,
+    Sales: 4000,
   },
   {
     name: "Oct",
-    "Active User": 1000,
+    Sales: 1000,
   },
   {
     name: "Nov",
-    "Active User": 4000,
+    Sales: 4000,
   },
   {
     name: "Dec",
-    "Active User": 3000,
+    Sales: 3000,
   },
 ];
 
 export const userRows = [
   {
     id: 1,
-    name: "Apple Air",
-    avatar:
-      "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500-E-h.jpg",
+    username: "Jon Snow",
+    avatar: "https://i.ibb.co/fS1D105/jonatan-pie-xg-TMSz6keg-E-unsplash.jpg",
     email: "jon@gmail.com",
     status: "active",
-    price: "$120.00",
+    transaction: "$120.00",
   },
   {
     id: 2,
-    name: "Cersei Lannister",
-    avatar:
-      "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500-E-h.jpg",
+    username: "Cersei Lannister",
+    avatar: "https://i.ibb.co/fS1D105/jonatan-pie-xg-TMSz6keg-E-unsplash.jpg",
     email: "Cersei@gmail.com",
     status: "active",
-    price: "$120.00",
+    transaction: "$120.00",
   },
   {
     id: 3,
-    name: "Arya Stark",
-    avatar:
-      "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500-E-h.jpg",
+    username: "Arya Stark",
+    avatar: "https://i.ibb.co/fS1D105/jonatan-pie-xg-TMSz6keg-E-unsplash.jpg",
     email: "Arya@gmail.com",
     status: "active",
-    price: "$120.00",
+    transaction: "$120.00",
   },
   {
     id: 4,
-    name: "Daenerys Targaryen",
-    avatar:
-      "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500-E-h.jpg",
+    username: "Daenerys Targaryen",
+    avatar: "https://i.ibb.co/fS1D105/jonatan-pie-xg-TMSz6keg-E-unsplash.jpg",
     email: "Daenerys@gmail.com",
     status: "active",
-    price: "$120.00",
+    transaction: "$120.00",
   },
   {
     id: 5,
-    name: "Daenerys Targaryen",
-    avatar:
-      "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500-E-h.jpg",
+    username: "Daenerys Targaryen",
+    avatar: "https://i.ibb.co/fS1D105/jonatan-pie-xg-TMSz6keg-E-unsplash.jpg",
     email: "Daenerys@gmail.com",
     status: "active",
-    price: "$120.00",
+    transaction: "$120.00",
   },
   {
     id: 6,
-    name: "Daenerys Targaryen",
-    avatar:
-      "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500-E-h.jpg",
+    username: "Daenerys Targaryen",
+    avatar: "https://i.ibb.co/fS1D105/jonatan-pie-xg-TMSz6keg-E-unsplash.jpg",
     email: "Daenerys@gmail.com",
     status: "active",
-    price: "$120.00",
+    transaction: "$120.00",
   },
   {
     id: 7,
-    name: "Daenerys Targaryen",
-    avatar:
-      "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500-E-h.jpg",
+    username: "Daenerys Targaryen",
+    avatar: "https://i.ibb.co/fS1D105/jonatan-pie-xg-TMSz6keg-E-unsplash.jpg",
     email: "Daenerys@gmail.com",
     status: "active",
-    price: "$120.00",
+    transaction: "$120.00",
   },
   {
     id: 8,
-    name: "Daenerys Targaryen",
-    avatar:
-      "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500-E-h.jpg",
+    username: "Daenerys Targaryen",
+    avatar: "https://i.ibb.co/fS1D105/jonatan-pie-xg-TMSz6keg-E-unsplash.jpg",
     email: "Daenerys@gmail.com",
     status: "active",
-    price: "$120.00",
+    transaction: "$120.00",
   },
   {
     id: 9,
-    name: "Daenerys Targaryen",
-    avatar:
-      "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500-E-h.jpg",
+    username: "Daenerys Targaryen",
+    avatar: "https://i.ibb.co/fS1D105/jonatan-pie-xg-TMSz6keg-E-unsplash.jpg",
     email: "Daenerys@gmail.com",
     status: "active",
-    price: "$120.00",
+    transaction: "$120.00",
   },
   {
     id: 10,
-    name: "Cersei Lannister",
-    avatar:
-      "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500-E-h.jpg",
+    username: "Daenerys Targaryen",
+    avatar: "https://i.ibb.co/fS1D105/jonatan-pie-xg-TMSz6keg-E-unsplash.jpg",
     email: "Cersei@gmail.com",
     status: "active",
-    price: "$120.00",
+    transaction: "$120.00",
   },
 ];
 
@@ -222,5 +212,20 @@ export const productRows = [
     stock: 123,
     status: "active",
     price: "$120.00",
+  },
+];
+
+export const productData = [
+  {
+    name: "Jan",
+    Sales: 4000,
+  },
+  {
+    name: "Feb",
+    Sales: 3000,
+  },
+  {
+    name: "Mar",
+    Sales: 5000,
   },
 ];
