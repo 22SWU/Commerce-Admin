@@ -46,7 +46,38 @@ export default function Product() {
           </div>
         </div>
       </div>
-      <div className="productBottom"></div>
+      <div className="productBottom">
+        <form className="productForm">
+          <div className="productFormLeft">
+            <lable>Product Name</lable>
+            <input type="text" placeholder="Apple AirPod" />
+            <lable>In Stock</lable>
+            <select name="inStock" id="inStock">
+              <option value="yes">Yes</option>
+              <option value="no">No</option>
+            </select>
+            <lable>Active</lable>
+            <select name="active" id="active">
+              <option value="yes">Yes</option>
+              <option value="no">No</option>
+            </select>
+          </div>
+          <div className="productFormRight">
+            <div className="productUpload">
+              <img
+                className="productUploadImg"
+                alt=""
+                src="https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+              />
+              <label for="file">
+                <Publish />
+              </label>
+              <input type="file" id="file" style={{ display: "none" }} />
+            </div>
+            <button className="productButton">Update</button>
+          </div>
+        </form>
+      </div>
     </div>
   );
 }
