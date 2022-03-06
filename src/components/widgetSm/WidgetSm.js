@@ -13,7 +13,6 @@ export default function WidgetSm() {
       } catch {}
     };
     getUsers();
-    console.log(users);
   }, []);
 
   return (
